@@ -32,6 +32,9 @@ define('PHPASS_HASH_PORTABLE', false);
  * @license   http://www.gnu.org/licenses/gpl-3.0.txt
  * @link      https://github.com/DaBourz/SimpleLoginSecure
  */
+ <p>
+ Ikhwan Firman
+ </p>
 class SimpleLoginSecure
 {
 	var $CI;
